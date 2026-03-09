@@ -1,0 +1,50 @@
+baseURL = "https://YOUR-GITHUB-USERNAME.github.io/"
+languageCode = "en-us"
+title = "Your Name — IT Portfolio"
+theme = "papermod"
+
+[params]
+  author = "Your Name"
+  description = "Applied Computer Science student at Howest — exploring tech, lifelong learning, and professional growth."
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Hey there 👋"
+    Content = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science student at Howest, documenting my journey through events, projects, and everything in between."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/YOUR-LINKEDIN"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/YOUR-GITHUB"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS"]
