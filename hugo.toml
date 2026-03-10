@@ -1,4 +1,4 @@
-baseURL = "https://YOUR-GITHUB-USERNAME.github.io/"
+baseURL = "https://sanchinator.github.io/"
 languageCode = "en-us"
 title = "Your Name — IT Portfolio"
 theme = "papermod"
