@@ -5,25 +5,23 @@ url: "/about/"
 summary: "Who I am and what drives me"
 ---
 
-<!-- REPLACE everything below with your own info -->
+## Hi, I'm Alexandru Neclea
 
-## Hi, I'm [Your Name]
-
-I'm a final-year **Applied Computer Science** student at [Howest](https://www.howest.be), based in [Your City], Belgium.
+I'm a final-year **Applied Computer Science** student at [Howest](https://www.howest.be), based in Bruges, Belgium. My main focus is **cybersecurity** — lately I've been researching AI  — and I'm working towards turning that interest into a career.
 
 ### What I'm into
 
-<!-- Pick what applies to you and expand on it -->
-- **[Your specialization]** — e.g., web development, cybersecurity, AI, cloud, DevOps...
-- **[A second interest]** — what else excites you in tech?
-- **[Something personal]** — a hobby, side project, or passion outside of pure tech
+- **Cybersecurity** — network security is where I feel most at home. I like understanding how systems work and where they break.
+- **AI & emerging tech** — I closely follow the latest developments in artificial intelligence. That said, I see AI as a tool that complements the fundamentals I've built during my studies, not a replacement for them. Strong networking, security, and programming foundations remain just as relevant as ever.
+- **Hands-on learning** — hackathons, tech events, and experimenting with tools on my own time. I learn best by doing.
+- **Beyond the screen** — when I'm not studying or tinkering with security tools, you'll find me training, gaming, or listening to music.
 
 ### What you'll find here
 
-This portfolio is a collection of my experiences throughout the 2025–2026 academic year: event reflections, a podcast episode, hackathon adventures, and more. It's my way of documenting growth and staying sharp in a field that never stands still.
+This portfolio documents my journey through the 2025–2026 academic year: reflections on tech events and seminars, a hackathon experience, a podcast episode, and more. It's my way of keeping track of what I learn and showing how I think about the field I want to work in.
 
 ### Get in touch
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
-- **Email:** [your.email@student.howest.be]
+- **LinkedIn:** [Alexandru Neclea](https://www.linkedin.com/in/alexandru-neclea/)
+- **GitHub:** [sanchinator](https://github.com/sanchinator)
+- **Email:** [sanduneclea@gmail.com]
