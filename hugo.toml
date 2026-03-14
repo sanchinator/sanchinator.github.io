@@ -1,11 +1,11 @@
 baseURL = "https://sanchinator.github.io/"
 languageCode = "en-us"
-title = "Your Name — IT Portfolio"
+title = "Alexandru Neclea - IT Portfolio"
 theme = "papermod"
 
 [params]
-  author = "Your Name"
-  description = "Applied Computer Science student at Howest — exploring tech, lifelong learning, and professional growth."
+  author = "Alexandru Neclea"
+  description = "Applied Computer Science (Cyber Security) student at Howest - exploring tech, lifelong learning, and professional growth."
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -14,16 +14,16 @@ theme = "papermod"
   defaultTheme = "auto"
 
   [params.homeInfoParams]
-    Title = "Hey there 👋"
-    Content = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science student at Howest, documenting my journey through events, projects, and everything in between."
+    Title = "Hey there"
+    Content = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science with a major in CyberSecurity student at Howest, documenting my journey through events, projects, and everything in between."
 
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com/in/YOUR-LINKEDIN"
+    url = "https://www.linkedin.com/in/alexandru-neclea/"
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/YOUR-GITHUB"
+    url = "https://github.com/sanchinator/"
 
 [menu]
   [[menu.main]]
