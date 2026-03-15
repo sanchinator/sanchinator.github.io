@@ -3,6 +3,9 @@ title: "BSides Limburg"
 date: 2026-03-13
 tags: ["events", "cybersecurity", "bsides", "conference"]
 summary: "My first BSides - a community-run security conference in Hasselt."
+cover:
+  image: "/images/bsides-venue.png"
+  alt: "The BSides Limburg venue in Hasselt"
 ---
 
 ![The BSides Limburg venue in Hasselt](/images/bsides-venue.png)

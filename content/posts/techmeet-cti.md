@@ -1,5 +1,5 @@
 ---
-title: "Tech & Meet: Threat Intelligence — From Threats to Tactics"
+title: "Tech & Meet: Threat Intelligence - From Threats to Tactics"
 date: 2025-10-07
 tags: ["Tech & Meet", "cybersecurity", "threat intelligence", "CCB"]
 summary: "An evening session on Cyber Threat Intelligence with two analysts from Belgium's Centre for Cybersecurity."
