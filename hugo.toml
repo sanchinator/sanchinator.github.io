@@ -11,7 +11,11 @@ theme = "papermod"
     imageWidth = 150
     imageHeight = 150
     imageTitle = "Alexandru Neclea"
-
+    buttons:
+      - name: Posts/Blogs
+        url: "/posts"
+      - name: About me
+        url: "https://sanchinator.github.io/about/"
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/alexandru-neclea/"
