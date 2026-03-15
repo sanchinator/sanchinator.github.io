@@ -2,7 +2,10 @@
 title: "Active Cyber Protection — Protecting Belgium"
 date: 2025-12-16
 tags: ["events", "cybersecurity", "ccb", "belgium"]
-description: "A Tech & Meet session with CCB, Belgian Cyber Force, and EgovSelect on Belgium's national cyber defence."
+summary: "A Tech & Meet session with CCB, Belgian Cyber Force, and EgovSelect on Belgium's national cyber defence."
+cover:
+  image: "/images/ccb-framework.png"
+  alt: "Cyber Operation Framework — Protect, Collect, Defend, Fight"
 ---
 
 ![Cyber Operation Framework — Protect, Collect, Defend, Fight](/images/ccb-framework.png)
