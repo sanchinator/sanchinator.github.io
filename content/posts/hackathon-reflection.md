@@ -2,7 +2,7 @@
 title: "Hackathon: Hack The Future 2025"
 date: 2025-11-12
 tags: ["hackathon", "networking", "AI", "Power BI"]
-summary: "How me and Szymon spent a day wrestling with Microsoft Fabric at Hack The Future 2025."
+summary: "How me and my friend, Szymon spent a day wrestling with Microsoft Fabric at Hack The Future 2025."
 cover:
   image: "/images/htf-aquatopia.jpg"
   alt: "The Aquatopia stage at Hack The Future 2025"
@@ -18,7 +18,7 @@ We spent most of the day trying to understand the tools. Neither of us had touch
 
 Still, I walked away knowing more than I did that morning. I have a rough sense of what Fabric does now, I poked around Azure AI Foundry for the first time, and I learned that hackathons go a lot smoother when you prep the tools beforehand. Noted for next time.
 
-The atmosphere was the best part. Hundreds of students hacking away, free food, and enough neon blue lighting to make you feel like you were actually underwater. Szymon and I chatted with some company reps between sessions too, which gave me a better sense of where cybersecurity fits in the current job market.
+The atmosphere was the best part. Hundreds of students hacking away, FREE FOOD, and enough neon blue lighting to make you feel like you were actually underwater. Szymon and I chatted with some other students between sessions.
 
 ![Hack The Future neon sign at the venue](/images/htf-neon.jpg)
 
