@@ -5,7 +5,7 @@ tags: ["hackathon", "networking", "AI", "Power BI"]
 summary: "How me and my friend, Szymon spent a day wrestling with Microsoft Fabric at Hack The Future 2025."
 ---
 
-![Introductory slide to the event](/images/htf-aquatopia.png)
+![The Aquatopia stage at Hack The Future 2025](/images/htf-aquatopia.jpg)
 
 Hack The Future is a yearly hackathon for Belgian IT students. The 2025 edition, themed "Aquatopia," happened on November 12 at the convention center in Antwerp, right next to the Zoo. Me and my teammate Szymon picked Challenge 114, "Ocean Guardians" from SBI-Kohera. We were supposed to build an AI solution for monitoring ocean health using Microsoft Fabric, Power BI, and Azure AI Foundry.
 

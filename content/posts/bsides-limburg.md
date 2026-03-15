@@ -21,6 +21,6 @@ PinkDraconian's browser hacking talk was the one that made me want to leave and 
 
 Pedro Paulos's RAG systems talk was the one I hadn't expected much from. RAG is the architecture behind AI tools that answer questions about your own documents, and it turns out there are ways to pull data out of those systems that most people deploying them haven't thought about. Relatively new attack surface, and the talk made it concrete.
 
-![Aikido Security t-shirt — Liberté, Égalité, Cybersécurité](/images/bsides-tshirt.png)
+![Aikido Security t-shirt - Liberté, Égalité, Cybersécurité](/images/bsides-tshirt.png)
 
 Also got an Aikido Security t-shirt that says "Liberté, Égalité, Cybersécurité" and I'm not going to pretend that wasn't a highlight.
