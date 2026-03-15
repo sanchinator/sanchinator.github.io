@@ -24,6 +24,10 @@ theme = "papermod"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/sanchinator/"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:sanduneclea@gmail.com"  
 
 [menu]
   [[menu.main]]
