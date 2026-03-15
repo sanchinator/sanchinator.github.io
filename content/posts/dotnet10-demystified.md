@@ -5,6 +5,8 @@ tags: ["events", "dotnet", "csharp"]
 description: "A Tech & Meet session with Kevin De Rudder covering what's new in .NET 10."
 ---
 
+![Kevin De Rudder presenting the .NET ecosystem](/images/dotnet10-slide.png)
+
 I went into this session knowing basically nothing about .NET 10. I came out with a clearer picture of where it's heading — and a new appreciation for live coding that goes wrong in real time.
 
 Kevin De Rudder ran the session for Tech & Meet at Howest. He moved quickly: new features, ecosystem overview, what's changed. At one point he described .NET as "one big family" — meaning the runtime, libraries, and tooling are built to work together rather than against each other. We've spent enough time in class talking about Java's fragmentation that the contrast landed. I can't say whether it holds up at scale, but as a starting mental model it's useful.
