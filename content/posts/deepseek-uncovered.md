@@ -2,7 +2,10 @@
 title: "DeepSeek Uncovered"
 date: 2025-12-09
 tags: ["events", "ai", "deepseek", "open-source"]
-description: "A Tech & Meet session with Dimitri Casier on DeepSeek, the open-source AI challenger from China."
+summary: "A Tech & Meet session with Dimitri Casier on DeepSeek, the open-source AI challenger from China."
+cover:
+  image: "/images/deepseek-compute.png"
+  alt: "Global AI compute comparison slide"
 ---
 
 ![Global AI compute comparison slide](/images/deepseek-compute.png)

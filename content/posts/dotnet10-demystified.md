@@ -2,7 +2,10 @@
 title: ".NET 10 Demystified"
 date: 2025-11-18
 tags: ["events", "dotnet", "csharp"]
-description: "A Tech & Meet session with Kevin De Rudder covering what's new in .NET 10."
+summary: "A Tech & Meet session with Kevin De Rudder covering what's new in .NET 10."
+cover:
+  image: "/images/dotnet10-slide.png"
+  alt: "Kevin De Rudder presenting the .NET ecosystem"
 ---
 
 ![Kevin De Rudder presenting the .NET ecosystem](/images/dotnet10-slide.png)
