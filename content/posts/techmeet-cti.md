@@ -1,18 +1,18 @@
 ---
-title: "Tech & Meet: Threat Intelligence — From Threats to Tactics"
+title: "Tech & Meet: Threat Intelligence - From Threats to Tactics"
 date: 2025-10-07
 tags: ["Tech & Meet", "cybersecurity", "threat intelligence", "CCB"]
 summary: "An evening session on Cyber Threat Intelligence with two analysts from Belgium's Centre for Cybersecurity."
 cover:
   image: "/images/techmeet-cti-slide.png"
-  alt: "CTI: From threats to intelligence — title slide at Howest"
+  alt: "CTI: From threats to intelligence - title slide at Howest"
   caption: "Sandro Manzo and Niels Desloover presenting at Howest, Bruges"
 author: "Alexandru Neclea"
 ---
 
 The first Tech & Meet of the year was on October 7th at Howest in Bruges. Cyber Threat Intelligence, presented by two people from CCB/CyTRIS: Sandro Manzo, who leads the Fusion Centre, and Niels Desloover, a CTI analyst.
 
-They explained how their team at the Centre for Cybersecurity Belgium actually handles threat data day-to-day. Not the theoretical cycle you get in textbooks, but the real workflow — collecting indicators, figuring out what's noise and what's worth escalating, and getting that information to the organizations that need it before something goes wrong.
+They explained how their team at the Centre for Cybersecurity Belgium actually handles threat data day-to-day. Not the theoretical cycle you get in textbooks, but the real workflow - collecting indicators, figuring out what's noise and what's worth escalating, and getting that information to the organizations that need it before something goes wrong.
 
 ![Signing in at the Tech & Meet event](/images/techmeet-cti-signin.png)
 
