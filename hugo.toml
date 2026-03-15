@@ -15,7 +15,7 @@ theme = "papermod"
 
   [params.homeInfoParams]
     Title = "Hey there"
-    Content = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science with a major in CyberSecurity student at Howest, documenting my journey through events, projects, and everything in between."
+    Content = "Content = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science student with a major in CyberSecurity at Howest, documenting my journey through events, projects, and everything in between.""
 
   [[params.socialIcons]]
     name = "linkedin"

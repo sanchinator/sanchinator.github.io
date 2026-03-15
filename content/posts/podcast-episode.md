@@ -3,6 +3,7 @@ title: "Podcast: [EPISODE TITLE]"
 date: 2026-04-01T00:00:00+01:00
 tags: ["podcast", "TOPIC-TAG"]
 summary: "[One-line description of the episode]."
+draft: true
 ---
 
 ## The episode

@@ -1,13 +1,13 @@
 ---
 title: "BSides Limburg"
-date: 2025-01-01
+date: 2025-03-13
 tags: ["events", "cybersecurity", "bsides", "conference"]
-description: "My first BSides — a community-run security conference in Hasselt."
+description: "My first BSides - a community-run security conference in Hasselt."
 ---
 
 ![The BSides Limburg venue in Hasselt](/images/bsides-venue.png)
 
-BSides Limburg was my first BSides. I didn't know what to expect — "community-run security conference" doesn't tell you much. It turned out to mean smaller, more informal, and mostly practitioners talking about things they've actually done rather than vendor content dressed up as talks.
+BSides Limburg was my first BSides. I didn't know what to expect - "community-run security conference" doesn't tell you much. It turned out to mean smaller, more informal, and mostly practitioners talking about things they've actually done rather than vendor content dressed up as talks.
 
 The venue in Hasselt helped. It wasn't a generic conference centre, people were standing around talking between sessions rather than staring at their phones, and the crowd was mostly working professionals with a few students mixed in. I spent time just listening to conversations around me, which ended up being useful in its own way.
 
