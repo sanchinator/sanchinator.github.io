@@ -24,4 +24,4 @@ This portfolio documents my journey through the 2025-2026 academic year: reflect
 
 - **LinkedIn:** [Alexandru Neclea](https://www.linkedin.com/in/alexandru-neclea/)
 - **GitHub:** [sanchinator](https://github.com/sanchinator)
-- **Email:** [sanduneclea@gmail.com]
+- **Email:** [sanduneclea@gmail.com](mailto:sanduneclea@gmail.com)
