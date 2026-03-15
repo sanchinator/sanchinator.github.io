@@ -3,9 +3,6 @@ title: "BSides Limburg"
 date: 2026-03-13
 tags: ["events", "cybersecurity", "bsides", "conference"]
 summary: "My first BSides - a community-run security conference in Hasselt."
-cover:
-  image: "/images/bsides-venue.png"
-  alt: "The BSides Limburg venue in Hasselt"
 ---
 
 ![The BSides Limburg venue in Hasselt](/images/bsides-venue.png)
@@ -16,9 +13,9 @@ The venue in Hasselt helped. It wasn't a generic conference centre, people were 
 
 ![From anonymous user to Global Admin in 45 minutes](/images/bsides-global-admin.png)
 
-PinkDraconian's browser hacking talk was the one that made me want to leave and go straight to a lab. The angle was on the browser as an attack surface in itself — not just phishing, but the browser as an execution environment with its own exploitable behaviour. I went down a rabbit hole that evening.
+PinkDraconian's browser hacking talk was the one that made me want to leave and go straight to a lab. The angle was on the browser as an attack surface in itself - not just phishing, but the browser as an execution environment with its own exploitable behaviour.
 
-"From anonymous user to Global Admin in 45 minutes... or not" was the session I'd been watching the schedule for. It walked through a realistic privilege escalation path in a Microsoft environment, then went through the defences that should stop it. The "or not" in the title is doing a lot of work.
+"From anonymous user to Global Admin in 45 minutes" was the session I'd been watching the schedule for. It walked through a realistic privilege escalation path in a Microsoft environment, then went through the defences that should stop it.
 
 ![IT vs OT talk using the Cyber Kill Chain](/images/bsides-it-vs-ot.png)
 
@@ -26,4 +23,4 @@ Pedro Paulos's RAG systems talk was the one I hadn't expected much from. RAG is 
 
 ![Aikido Security t-shirt — Liberté, Égalité, Cybersécurité](/images/bsides-tshirt.png)
 
-Also came home with an Aikido Security t-shirt that says "Liberté, Égalité, Cybersécurité." Not the most important part of the day but not nothing either.
+Also got an Aikido Security t-shirt that says "Liberté, Égalité, Cybersécurité" and I'm not going to pretend that wasn't a highlight.
