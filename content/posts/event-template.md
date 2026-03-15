@@ -1,46 +1,23 @@
 ---
-title: "Event: [EVENT NAME]"
-date: 2025-10-01T00:00:00+01:00
-tags: ["event", "seminar", "TOPIC-TAG"]
-summary: "My reflection on [EVENT NAME] — [one-line teaser]."
+title: "Tech & Meet: Threat Intelligence — From Threats to Tactics"
+date: 2025-10-07
+tags: ["Tech & Meet", "cybersecurity", "threat intelligence", "CCB"]
+summary: "An evening session on Cyber Threat Intelligence with two analysts from Belgium's Centre for Cybersecurity."
 cover:
-  image: "/images/event-name.jpg"
-  alt: "[Short description of the photo]"
+  image: "/images/techmeet-cti-slide.png"
+  alt: "CTI: From threats to intelligence — title slide at Howest"
+  caption: "Sandro Manzo and Niels Desloover presenting at Howest, Bruges"
+author: "Alexandru Neclea"
 ---
 
-<!-- PHOTO: Add a photo of yourself at the event in /static/images/ -->
-<!-- Reference it above in the cover image, or inline below -->
+The first Tech & Meet of the year was on October 7th at Howest in Bruges. Cyber Threat Intelligence, presented by two people from CCB/CyTRIS: Sandro Manzo, who leads the Fusion Centre, and Niels Desloover, a CTI analyst.
 
-![Me at [EVENT NAME]](/images/event-name.jpg)
+They explained how their team at the Centre for Cybersecurity Belgium actually handles threat data day-to-day. Not the theoretical cycle you get in textbooks, but the real workflow — collecting indicators, figuring out what's noise and what's worth escalating, and getting that information to the organizations that need it before something goes wrong.
 
-## The event at a glance
+![Signing in at the Tech & Meet event](/images/techmeet-cti-signin.png)
 
-- **What:** [Event name and type — meetup, conference, Tech&Meet, etc.]
-- **When:** [Date]
-- **Where:** [Location]
-- **Speaker(s):** [Name(s) — include their background/role]
-- **Target audience:** [Who was it aimed at?]
+I went in thinking cybersecurity careers are mostly pentesting and SOC work. The speakers made a point that CCB hires all sorts of profiles: analysts, policy people, cloud engineers, network people. CTI itself is more investigation than hacking. That was a useful reality check for me, because I'd been narrowing my job search without realizing how many directions this field actually goes.
 
-## What it was about
+![Networking with fellow students after the session](/images/techmeet-cti-networking.png)
 
-<!-- 1-2 paragraphs summarizing the content/topic -->
-
-[Write here]
-
-## What I took away from it
-
-<!-- This is the core of your reflection. Be personal and specific. -->
-<!-- Did you learn something new? Did it challenge your assumptions? -->
-<!-- How does it connect to what you've studied or want to work on? -->
-
-[Write here]
-
-## Would I go again?
-
-<!-- Be honest — negative experiences are valid and interesting too -->
-
-[Write here]
-
----
-
-*Word count target: 300–500 words*
+After the talk we stuck around for drinks. A few of us ended up at a table talking about internships and what everyone was working on. Turns out conversations go smoother with a beer in hand. I met a couple of people I've stayed connected with on LinkedIn since.
