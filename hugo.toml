@@ -3,19 +3,14 @@ languageCode = "en-us"
 title = "Alexandru Neclea - IT Portfolio"
 theme = "papermod"
 
-[params]
-  author = "Alexandru Neclea"
-  description = "Applied Computer Science (Cyber Security) student at Howest - exploring tech, lifelong learning, and professional growth."
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  defaultTheme = "auto"
-
-  [params.homeInfoParams]
-    Title = "Hey there"
-    Content = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science student with a major in CyberSecurity at Howest, documenting my journey through events, projects, and everything in between."
+  [params.profileMode]
+    enabled = true
+    title = "Hey there"
+    subtitle = "Welcome to my IT portfolio. I'm a final-year Applied Computer Science student with a major in CyberSecurity at Howest, documenting my journey through events, projects, and everything in between."
+    imageUrl = "/images/profile.jpg"
+    imageWidth = 150
+    imageHeight = 150
+    imageTitle = "Alexandru Neclea"
 
   [[params.socialIcons]]
     name = "linkedin"
