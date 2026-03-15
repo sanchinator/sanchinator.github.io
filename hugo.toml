@@ -3,6 +3,16 @@ languageCode = "en-us"
 title = "Alexandru Neclea - IT Portfolio"
 theme = "papermod"
 
+[params]
+  author = "Alexandru Neclea"
+  description = "Applied Computer Science (Cyber Security) student at Howest - exploring tech, lifelong learning, and professional growth."
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
   [params.profileMode]
     enabled = true
     title = "Hey there"
@@ -11,11 +21,15 @@ theme = "papermod"
     imageWidth = 150
     imageHeight = 150
     imageTitle = "Alexandru Neclea"
-    buttons:
-      - name: Posts/Blogs
-        url: "/posts"
-      - name: About me
-        url: "https://sanchinator.github.io/about/"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts"
+
+    [[params.profileMode.buttons]]
+      name = "About me"
+      url = "/about"
+
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/alexandru-neclea/"
@@ -23,10 +37,10 @@ theme = "papermod"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/sanchinator/"
-  
+
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:sanduneclea@gmail.com"  
+    url = "mailto:sanduneclea@gmail.com"
 
 [menu]
   [[menu.main]]
