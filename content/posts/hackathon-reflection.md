@@ -3,9 +3,6 @@ title: "Hackathon: Hack The Future 2025"
 date: 2025-11-12
 tags: ["hackathon", "networking", "AI", "Power BI"]
 summary: "How me and my friend, Szymon spent a day wrestling with Microsoft Fabric at Hack The Future 2025."
-cover:
-  image: "/images/htf-aquatopia.jpg"
-  alt: "The Aquatopia stage at Hack The Future 2025"
 ---
 
 ![Introductory slide to the event](/images/htf-aquatopia.png)
