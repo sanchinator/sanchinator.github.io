@@ -1,35 +1,26 @@
 ---
-title: "Podcast: [EPISODE TITLE]"
+title: "Podcast: Claude & AI — Real-World Use, Capabilities, and Security"
 date: 2026-04-01T00:00:00+01:00
-tags: ["podcast", "TOPIC-TAG"]
-summary: "[One-line description of the episode]."
-draft: true
+tags: ["podcast", "AI", "Claude", "cybersecurity", "security"]
+summary: "A conversation with security consultant Angelos Michalopoulos on how AI tools like Claude are changing software engineering — and what the security implications actually are."
+draft: false
 ---
 
 ## The episode
 
-- **Topic:** [What did you discuss?]
-- **Guest:** [Speaker name — their role and background]
-- **Duration:** [XX minutes]
+- **Topic:** Claude and AI - real-world use, deeper capabilities (MCPs, agents), and security considerations
+- **Guest:** Angelos Michalopoulos - security consultant
+- **Hosts:** Alexandru Neclea, Calin Nicolae
+- **Duration:** 41 minutes
 
-<!-- Once published, embed or link the episode here -->
-<!-- **Listen here:** [Link from module coordinator] -->
+**Listen here:** [Open on Spotify](https://open.spotify.com/episode/3h8wAlKDKbAXzsgAL9FZMI?si=NScRcwC4TFW50kE--R_wxA)
 
 ## Why this topic?
 
-<!-- What drew you to this subject? Why this speaker? -->
-
-[Write here]
+Calin and I talk about AI a lot between ourselves, Claude specifically. We wanted to bring in someone who uses these tools professionally to see how the conversation changes when there's real industry experience in the room. The security angle felt important too: most people adopt AI tools fast and think about the risks later, and we wanted to push on that.
 
 ## Key takeaways
 
-<!-- 2-3 things that stood out from the conversation -->
-
-[Write here]
-
-## Behind the scenes
-
-<!-- How did you prepare? How was the recording experience? -->
-<!-- Any challenges with equipment, editing, etc.? -->
-
-[Write here]
+- The gap between junior and senior engineers doesn't disappear with AI, it shifts. Knowing when the output is wrong matters more than ever.
+- MCPs and agents are still mostly experiments in the industry, but the direction is clear.
+- Security is a genuine concern: what you give an AI tool access to deserves as much thought as what you get back from it.
