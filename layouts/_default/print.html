@@ -1,0 +1,77 @@
+{{- define "main" }}
+<style>
+  /* Print-only: hide site chrome, expand content, page-break per section */
+  @media print {
+    body > header,
+    body > footer,
+    header.header,
+    footer.footer,
+    .breadcrumbs,
+    .post-nav,
+    .share-buttons,
+    .toc,
+    .first-entry,
+    .top-link,
+    #top-link,
+    .gotop,
+    .theme-toggle,
+    nav.menu,
+    .print-tip {
+      display: none !important;
+    }
+    main.main {
+      max-width: 100% !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+    body { font-size: 11pt; line-height: 1.4; }
+    article.print-section + article.print-section { page-break-before: always; }
+    a { color: #000 !important; text-decoration: underline; }
+    img { max-width: 100% !important; height: auto !important; }
+  }
+
+  /* Screen view: clear separation between sections, plus a help banner */
+  .print-portfolio-title { margin-bottom: 2em; }
+  .print-section {
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #ddd;
+  }
+  .print-section:last-child { border-bottom: none; }
+  .print-meta {
+    color: #888;
+    font-size: 0.9em;
+    margin-bottom: 1em;
+  }
+  .print-tip {
+    background: #f4f4f4;
+    border-left: 4px solid #888;
+    padding: 1em;
+    margin: 1em 0 2em 0;
+  }
+</style>
+
+<div class="print-tip">
+  Press <strong>Ctrl+P</strong> (or <strong>Cmd+P</strong>) and choose "Save as PDF" to export this whole view as a single document.
+</div>
+
+<header class="print-portfolio-title">
+  <h1>Alexandru Neclea - IT Portfolio</h1>
+</header>
+
+<article class="print-section">
+  {{ with .Site.GetPage "/about" }}{{ .Content }}{{ end }}
+</article>
+
+<article class="print-section">
+  {{ with .Site.GetPage "/cv" }}{{ .Content }}{{ end }}
+</article>
+
+{{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+<article class="print-section">
+  <h2>{{ .Title }}</h2>
+  <div class="print-meta">{{ .Date.Format "2 January 2006" }}</div>
+  {{ .Content }}
+</article>
+{{ end }}
+{{- end }}
