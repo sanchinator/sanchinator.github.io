@@ -30,6 +30,10 @@ theme = "papermod"
       name = "About me"
       url = "/about"
 
+    [[params.profileMode.buttons]]
+      name = "CV"
+      url = "/cv"
+
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/alexandru-neclea/"
@@ -48,6 +52,11 @@ theme = "papermod"
     name = "About"
     url = "/about/"
     weight = 10
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 15
   [[menu.main]]
     identifier = "posts"
     name = "Blog"
