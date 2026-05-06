@@ -13,10 +13,10 @@ They walked through how their team at the Centre for Cybersecurity Belgium handl
 
 ![Signing in at the Tech & Meet event](/images/techmeet-cti-signin.png)
 
-I went in thinking cybersecurity careers are mostly pentesting and SOC work. The speakers made a point that CCB hires all sorts of profiles: analysts, policy people, cloud engineers, network people. CTI itself is closer to investigation than hacking. You're piecing together fragments of information, looking for patterns, and writing reports that other teams can act on. That was a useful reality check for me, because I'd been narrowing my job search without realizing how many directions this field actually goes.
+I went in thinking cybersecurity careers are mostly pentesting and SOC work. The speakers made a point that CCB hires all sorts of profiles: analysts, policy people, cloud engineers, network people. CTI itself is closer to investigation than hacking. You're piecing together fragments of information, looking for patterns, and writing reports that other teams can act on. I hadn't considered how many directions this field actually goes before this talk.
 
-Niels talked about his own path into CTI, which didn't follow a straight line. He stressed that curiosity matters more than having the perfect degree, and that most of what he uses daily he learned on the job rather than in school.
+Niels talked about his own path into CTI - he came from a different background before ending up in threat analysis. He stressed that curiosity matters more than having the perfect degree, and that most of what he uses daily he learned on the job rather than in school.
 
 ![Networking with fellow students after the session](/images/techmeet-cti-networking.png)
 
-After the talk we stuck around for drinks. A few of us ended up at a table talking about internships and what everyone was working on. Turns out conversations go smoother with a beer in hand. I met a couple of people I've stayed connected with on LinkedIn since.
+After the talk we stuck around for drinks. A few of us ended up at a table talking about internships and what everyone was working on. I met a couple of people I've stayed connected with on LinkedIn since.

@@ -13,14 +13,14 @@ Three organisations presented: the Centre for Cybersecurity Belgium, the Belgian
 
 ![Belgium's cyber governance structure](/images/ccb-governance.png)
 
-Belgium's cyber structure runs across security, law enforcement, military defence, and diplomacy, with intelligence sharing underneath and the private sector - ISPs, cloud providers, social media platforms, payment processors - layered below that. On paper it looks organised. Coordinating all of it in practice must be genuinely hard, and the speakers were fairly honest that the gaps exist.
+Belgium's cyber structure runs across security, law enforcement, military defence, and diplomacy, with intelligence sharing underneath and the private sector - ISPs, cloud providers, social media platforms, payment processors - layered below that. On paper it looks organised. Coordinating all of it in practice must be hard, and the speakers were fairly honest that the gaps exist.
 
 ![CCB analyst capability and information products](/images/ccb-analysts.png)
 
-What actually changed something for me was the part about job profiles. I'd been picturing national cybersecurity as mostly pentesters and SOC analysts watching dashboards. The CCB analyst team draws from technical backgrounds, social sciences, linguistics, and law. They said they deliberately look for diverse profiles - various career paths, different nationalities, mixed backgrounds. That's not what I had in my head, and it changes how I think about where I might fit after graduating.
+What actually changed something for me was the part about job profiles. I'd been picturing national cybersecurity as mostly pentesters and SOC analysts watching dashboards. The CCB analyst team draws from technical backgrounds, social sciences, linguistics, and law. They said they deliberately look for diverse profiles - various career paths, different nationalities, mixed backgrounds. That's not what I had in my head. It changes how I think about where I might fit after graduating.
 
 EgovSelect handles federal recruitment and walked through what the hiring process looks like. It's slower and more structured than private sector hiring, which is probably inevitable at that level, but the roles are stable and the work is harder to find elsewhere.
 
 ![Conclusion slide - Belgium's cyber position and next steps](/images/ccb-conclusion.png)
 
-The conclusion slide was blunt: Belgium has reached a strong position in EU and global cyber rankings, but threats are growing faster than the defences can keep up with right now. Hearing that from the people actually running the infrastructure hits differently than reading it in a news article.
+The conclusion slide was blunt: Belgium has reached a strong position in EU and global cyber rankings, but threats are growing faster than the defences can keep up with right now. Hearing that from the people actually running the infrastructure carries more weight than reading it in a news article.
